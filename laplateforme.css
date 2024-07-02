@@ -1,0 +1,163 @@
+.img1{
+    width:400px;height: 62px ;
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+    float: left
+}
+.div1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    position: relative;
+    left: 40px;
+    text-decoration: none;
+    color: gray;
+display:flex;justify-content: space-evenly;
+}
+html{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.a1 , .a2,.a3,.a4,.a5,.a6,.a7,.a8:visited { text-decoration: none;color: gray; }
+.a1 , .a2,.a3,.a4,.a5,.a6,.a7,.a8:hover { text-decoration: none;color: gray; }
+.a1 , .a2,.a3,.a4,.a5,.a6,.a7,.a8:focus { text-decoration: none;color: gray;  }
+.a1 , .a2,.a3,.a4,.a5,.a6,.a7,.a8:hover,:active { text-decoration: none;color: gray; }
+.s1{
+    font-size: xx-large;
+    position: relative;
+    top:20px;
+    left:220px;
+    font-size: 40px;
+}
+.text1{
+    position: relative;
+    left: 220px;
+   top:80px;
+   font-size: large;
+   color: grey;
+   line-height: 25px;
+   
+}
+.text2{
+    position: relative;
+    left: 750px;
+    bottom: 150px;
+    font-size: large;
+    color: gray;
+    line-height: 25px;
+}
+.pep{
+    position: relative;
+    left:200px;
+    bottom: 90px;
+    font-size:xx-large ;
+}
+img{
+    width:240px;
+    height:180px ;
+   position: relative;
+   left: 140px;
+   bottom: 90px;
+   margin-right: 30px;
+margin-left: 30px;
+justify-content: space-around;
+}
+.imgc{
+    height:auto;
+    position: relative;
+bottom: 170px;
+}
+.img4{
+    width: 200px;
+    position: relative;
+    bottom: 60px;
+    left:300px;
+
+}
+.img5{
+    width: 220px;
+    height: 120px;
+    position: relative;
+    left: 600px;
+    bottom: 330px;
+}
+.img6{
+    width: 200px;
+    position: relative;
+    left:690px;
+    bottom: 320px;
+}
+.a0{
+    position: relative;
+    left: 580px;
+    bottom: 250px;
+    color: gray;
+}
+.a00{
+    position: relative;
+    left: 300px;
+    bottom: 16px;
+    color: gray;
+}
+.a00 , .a0 { text-decoration: none;}
+.a00 , .a0 :visited { text-decoration: none;color: gray; }
+.a00 , .a0 :hover { text-decoration: none;color: gray; }
+.a00 , .a0 :focus { text-decoration: none;color: gray;  }
+.a00 , .a0 :active { text-decoration: none !important;color: gray; }
+.h1wal{
+    position: relative;
+    bottom: 150px;
+    left: 150px;
+}
+
+.iframe1{
+    position: relative;
+    bottom: 100px;
+    left: 150px;
+}
+.iframe2{
+    position: relative;
+    bottom: 100px;
+    left: 320px;
+}
+.iframe3{
+    position: relative;
+    bottom: 100px;
+    left: 490px;
+}
+.a{
+    position: relative; 
+    left: 150px;
+    bottom: 90px;
+    font-size: large;
+}
+.b{
+    position: relative;
+    left: 150px;
+    bottom: 90px;
+    color: gray;
+}
+.c{
+    position: relative;
+    left: 630px;
+    bottom: 170px;
+    font-size: large;
+}
+.d{
+    position: relative;
+    left: 630px;
+    bottom: 170px;
+    color: gray;
+}
+.e{
+    position: relative;
+    left: 1100px;
+    bottom: 245px;
+    font-size: large;
+}
+.f{
+    position: relative;
+    left: 1100px;
+    bottom: 245px;
+    color: gray;
+}
